@@ -1,0 +1,5 @@
+URL = "https://1.test.mx7.ru/logistics-claims?page=1&max=10"
+URL_POST = "https://1.test.mx7.ru/xapi/auth/login"
+URL_POST_DRAFT = "https://1.test.mx7.ru/xapi/claimlogistic/v1/product/683"
+URL_POST_COMMENT = "https://1.test.mx7.ru/xapi/claimlogistic/v1/thread/683"
+URL_DELETE_PRODUCT = "https://1.test.mx7.ru/xapi/claimlogistic/v1/product/4125"
